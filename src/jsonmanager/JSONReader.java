@@ -16,7 +16,7 @@ import javax.json.JsonValue;
 
 /**
  *
- * @author MC
+ * @author DB
  */
 public class JSONReader {
     

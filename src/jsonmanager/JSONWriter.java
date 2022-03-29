@@ -16,7 +16,7 @@ import javax.json.JsonWriter;
 
 /**
  *
- * @author MC
+ * @author DB
  */
 public class JSONWriter {
     
